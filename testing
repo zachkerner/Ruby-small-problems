@@ -1,0 +1,9 @@
+
+my_pets
+
+loop do
+  my_pets = ["kitten", "puppy", "bird"]
+end
+
+puts my_pets
+
